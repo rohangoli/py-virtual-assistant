@@ -1,1 +1,11 @@
-sudo apt-get install python-wxgtk3.0
+sudo apt-get install 
+
+python-wxgtk3.0
+espeak
+libespeak-dev
+libpython-all-dev
+python2.7-dev
+python-pyaudio
+portaudio19-dev
+python-all-dev
+jack
